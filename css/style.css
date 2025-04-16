@@ -184,7 +184,7 @@ label {
 @media screen and (max-width: 380px) {
 
   .upper-container {
-    height: 85vh;
+    height: 600px;
     margin-bottom: 50px;
   }
 
