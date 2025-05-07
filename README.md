@@ -1,5 +1,5 @@
 # Ronak Patel | HTML & CSS Portfolio-2
-<img src="https://github.com/user-attachments/assets/780ba92a-8170-47a6-8790-5812ade01dea?raw=true" alt="Ronak HTML CSS Portfolio Banner" width="100%" />
+<img src="https://github.com/R-o-n-a-k/assets/blob/c5030b7d101e3c1bd61dd5613538fde2409e2f5a/assets/Portfolio2.gif?raw=true" alt="Ronak HTML CSS Portfolio Banner" width="100%" />
 
 ## 🚀 About Project
 
