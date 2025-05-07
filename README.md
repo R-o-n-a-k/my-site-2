@@ -7,19 +7,19 @@ This project was my **second attempt** while learning **HTML** and **CSS**. I bu
 
 ## 🌐 Technologies Used
 
-- 🎨  **Frontend:** HTML5, CSS3 (Flexbox, float, custom styling)
-- ☁️ **Deployment:** GitHub Pages
+- **Frontend:** HTML5, CSS3 (Flexbox, float, custom styling)
+- **Deployment:** GitHub Pages
 
 
 ## ✨ Features
 
-- ✅ Clean and minimalistic UI
-- 🖼️ Embedded images and graphics
-- 🔗 Social media integration
-- 📬 Functional contact form
-- 📱 Responsive layout using Flexbox
-- 🎯 Smooth button-based navigation
-- 🎨 Thematic color usage and structured layout
+- Clean and minimalistic UI
+- Embedded images and graphics
+- Social media integration
+- Functional contact form
+- Responsive layout using Flexbox
+- Smooth button-based navigation
+- Thematic color usage and structured layout
 
 ## ⚙️ Getting Started
 
@@ -37,4 +37,4 @@ cd my-site-2
 🔗 [Portfolio-2](https://r-o-n-a-k.github.io/my-site-2/)
 
 <hr>
-<p align="center">This project was part of my learning journey, but feel free to explore, fork, or suggest improvements!</p>
+<p align="center">🎨This project was part of my learning journey, but feel free to explore, fork, or suggest improvements!</p>
