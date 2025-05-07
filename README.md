@@ -34,7 +34,7 @@ cd my-site-2
 
 ## 🌐 Live Demo
 
-🔗 [Portfolio-2](r-o-n-a-k.github.io/my-site-2)
+🔗 [Portfolio-2](https://r-o-n-a-k.github.io/my-site-2/)
 
 <hr>
 <p align="center">This project was part of my learning journey, but feel free to explore, fork, or suggest improvements!</p>
